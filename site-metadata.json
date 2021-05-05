@@ -92,7 +92,7 @@
             },
             {
                 "label": "Whatsapp: 21991280069",
-                "url": "#",
+                "url": "https://api.whatsapp.com/send?phone=5521991280069",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
