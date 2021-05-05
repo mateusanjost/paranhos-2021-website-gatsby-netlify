@@ -79,7 +79,18 @@
                 "new_window": true
             }
         ],
-        "content": "Paranhos 2021"
+        "content": "Paranhos 2021",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "domain": "https://paranhos-2021-website-gatsby-netlify-28ce3.netlify.app",
     "favicon": "/images/vhgFKdi.png"
