@@ -1,5 +1,5 @@
 ---
-title: Subtle
+title: Landim Page - Cliché
 subtitle: Brand Development
 date: '2021-02-06'
 thumb_image: /images/landim page cliche.png
