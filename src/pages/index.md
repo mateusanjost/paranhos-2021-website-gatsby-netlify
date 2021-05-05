@@ -5,10 +5,13 @@ sections:
   - type: hero_section
     section_id: hero
     title: Uma luz em suas ideias
-    content: >-
-      We are a brand and design practice. We work closely with you, your team to
-      deliver inspiring work, which enables your organization to grow. [Let's
-      talk](/contact/).
+    content: >+
+      TEMOS COMO ESSÊNCIA O TRABALHO TECNOLÓGICO, TENDO SOLUÇÕES NO
+      DESENVOLVIMENTO MÓBILE, WEB OU DESKTOP, ALÉM DE APRESENTAR SOLUÇÕES DE
+      RENTABILIDA  EFICAZES ÀS EMPRESAS QUE PROCURAM AUMENTAR O FATURAMENTO. 
+
+
+
   - type: portfolio_section
     section_id: latest-projects
     title: Últimos cases
