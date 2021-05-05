@@ -18,7 +18,7 @@
             },
             {
                 "type": "action",
-                "label": "Work",
+                "label": "Cases",
                 "url": "/portfolio/",
                 "style": "link"
             },
