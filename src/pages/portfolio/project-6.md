@@ -1,6 +1,6 @@
 ---
 title: Landim Page - Cliché
-subtitle: Brand Development
+subtitle: "Desenvolvimento\_FrontEnd"
 date: '2021-02-06'
 thumb_image: /images/landim page cliche.png
 thumb_image_alt: Subtle preview
