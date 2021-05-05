@@ -1,6 +1,6 @@
 ---
 title: Social Media - Image
-subtitle: Editorial Design
+subtitle: Design
 date: '2021-01-10'
 thumb_image: /images/206df0843e62722e6556b48b771fc85a.png
 thumb_image_alt: Nature Magazine preview
