@@ -21,7 +21,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - type: image_section
-    image: /images/filtros1.png
+    image: /images/Screenshot_24.png
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
