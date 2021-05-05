@@ -16,7 +16,7 @@ sections:
     title: Últimos cases
     subtitle: Explore case studies
     layout_style: tiles
-    projects_number: 15
+    projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
   - type: grid_section
