@@ -13,7 +13,7 @@ sections:
       talk](/contact/).
   - type: portfolio_section
     section_id: latest-projects
-    title: Recent Work
+    title: Últimos cases
     subtitle: Explore case studies
     layout_style: tiles
     projects_number: 6
