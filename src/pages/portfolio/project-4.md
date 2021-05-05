@@ -6,7 +6,7 @@ thumb_image: /images/kidsapego app.png
 thumb_image_alt: Kidsapego
 sections:
   - type: image_section
-    image: images/work-book-1.jpg
+    image: /images/remarkable-thyme.png
     image_alt: Nature Mockup Magazine 1
     caption: This is the caption of the image
     width: wide
