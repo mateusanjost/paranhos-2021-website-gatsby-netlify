@@ -3,7 +3,7 @@ title: KIDSAPEGO
 subtitle: Desenvolvimento Móbile & Criativo
 date: '2020-05-10'
 thumb_image: /images/kidsapego app.png
-thumb_image_alt: Nature Mockup Magazine preview
+thumb_image_alt: Kidsapego
 sections:
   - type: image_section
     image: images/work-book-1.jpg
