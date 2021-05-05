@@ -1,6 +1,6 @@
 ---
 title: MAR DEL PLATA - SEGURO ONLINE
-subtitle: Editorial Design
+subtitle: Desenvolvimento Web
 date: '2020-04-10'
 thumb_image: /images/mar del plata.png
 thumb_image_alt: The Book preview
