@@ -2,7 +2,7 @@
     "title": "Paranhos",
     "color_scheme": "dark",
     "accent_color": "green",
-    "base_font": "system-sans",
+    "base_font": "karla",
     "header": {
         "type": "header",
         "title": "Agency",
