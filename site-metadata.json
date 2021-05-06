@@ -36,7 +36,7 @@
             },
             {
                 "type": "action",
-                "label": "FALE CONOSCO",
+                "label": "Contato",
                 "url": "/contact/",
                 "style": "button"
             }
