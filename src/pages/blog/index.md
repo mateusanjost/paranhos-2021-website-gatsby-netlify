@@ -2,7 +2,7 @@
 title: Journal
 subtitle: 'News, tips and highlights'
 hide_title: false
-col_number: three
+col_number: two
 seo:
   type: stackbit_page_meta
   title: Journal
