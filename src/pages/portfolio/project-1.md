@@ -1,5 +1,5 @@
 ---
-title: Design Is One
+title: SISTEMA PDV
 subtitle: Print
 date: '2020-02-10'
 thumb_image: /images/sistema pdv.png
