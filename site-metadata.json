@@ -89,15 +89,6 @@
                 "new_window": false,
                 "no_follow": false,
                 "type": "action"
-            },
-            {
-                "label": "Whatsapp: 21991280069",
-                "url": "https://api.whatsapp.com/send?phone=5521991280069",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
             }
         ]
     },
