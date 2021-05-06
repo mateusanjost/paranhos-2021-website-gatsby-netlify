@@ -27,7 +27,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        image: images/logo-1.svg
+        image: /images/kidsapegologo_b.png
         image_alt: Logo 1
       - type: grid_item
         image: images/logo-2.svg
