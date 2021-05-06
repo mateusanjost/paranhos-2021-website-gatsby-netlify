@@ -1,5 +1,5 @@
 ---
-title: LOJA TRAY
+title: '-E'
 subtitle: ' CARABINAS DE PRESSÃO'
 date: '2020-03-10'
 thumb_image: /images/loja tray.png
