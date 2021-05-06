@@ -1,6 +1,6 @@
 ---
 title: SISTEMA PDV
-subtitle: Print
+subtitle: EM JAVA
 date: '2020-02-10'
 thumb_image: /images/sistema pdv.png
 thumb_image_alt: Design Is One preview
