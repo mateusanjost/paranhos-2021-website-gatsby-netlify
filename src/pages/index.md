@@ -83,9 +83,10 @@ sections:
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
-    content: >-
-      Say hello at [email@example.com](mailto:email@example.com) or tell us more
-      about your project by getting started below.
+    content: >+
+      Entre em contato pelo e-mail: contato@agenciaparanhos.com.br ou whatsapp:
+      (21) 99128-0069 ou conte-nos mais sobre seu projeto começando abaixo.
+
     actions:
       - type: action
         label: Let's start
