@@ -89,7 +89,7 @@ sections:
 
     actions:
       - type: action
-        label: Let's start
+        label: QUERO TRABALHAR COM VOCÊS
         url: /contact
         style: button
     image: images/cta.svg
