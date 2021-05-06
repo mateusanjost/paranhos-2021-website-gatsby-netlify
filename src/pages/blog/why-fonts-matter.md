@@ -4,10 +4,6 @@ date: '2020-12-27'
 thumb_image_alt: Black white calendar
 image: images/post-3.jpg
 image_alt: Black white calendar
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
 seo:
   type: stackbit_page_meta
   title: Why Fonts Matter
