@@ -1,7 +1,6 @@
 ---
 title: Why Fonts Matter
 date: '2020-12-27'
-thumb_image: images/post-3-thumb.jpg
 thumb_image_alt: Black white calendar
 image: images/post-3.jpg
 image_alt: Black white calendar
