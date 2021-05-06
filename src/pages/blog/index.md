@@ -1,6 +1,6 @@
 ---
 title: EM ALTA
-subtitle: 'News, tips and highlights'
+subtitle: "Artigos\_ das maiores tendências"
 hide_title: false
 col_number: three
 seo:
