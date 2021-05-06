@@ -14,7 +14,7 @@ sections:
   - type: portfolio_section
     section_id: latest-projects
     title: Últimos cases
-    subtitle: Explore case studies
+    subtitle: Veja os nossos últimos projetos
     layout_style: tiles
     projects_number: 6
     view_all_label: View All
