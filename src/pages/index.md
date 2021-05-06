@@ -10,6 +10,14 @@ sections:
       ALÉM DE APRESENTAR SOLUÇÕES DE RENTABILIDA  EFICAZES ÀS EMPRESAS QUE
       PROCURAM AUMENTAR O FATURAMENTO, BASEANDO-SE SEMPRE EM PERFORMANCE E
       DADOS.
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
   - type: portfolio_section
     section_id: latest-projects
     title: Últimos cases
