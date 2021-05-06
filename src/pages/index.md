@@ -48,7 +48,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        title: Business design
+        title: Social Media
         image: images/service-1.svg
         content: |-
           - Research and insight
