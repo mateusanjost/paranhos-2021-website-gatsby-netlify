@@ -1,6 +1,6 @@
 ---
 title: LOJA TRAY
-subtitle: Brand Development
+subtitle: ' CARABINAS DE PRESSÃO'
 date: '2020-03-10'
 thumb_image: /images/loja tray.png
 thumb_image_alt: Aimi preview
