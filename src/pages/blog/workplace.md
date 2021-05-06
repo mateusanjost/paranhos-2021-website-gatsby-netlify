@@ -5,9 +5,11 @@ thumb_image: images/post-6-thumb.jpg
 thumb_image_alt: White desk lamp beside green plant
 image: images/post-6.jpg
 image_alt: White desk lamp beside green plant
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: |-
+  Nos tempos de hoje, o marketing
+  digital é essencial para manter qualquer empresa viva. E, como saber se é a
+  hora de investir nisso? O ideal é ter um plano de marketing antes das coisas
+  começarem a ir mal, mas nem sempre fazemos o ideal, não....+
 seo:
   type: stackbit_page_meta
   title: The Elements of Great Workplace Design
