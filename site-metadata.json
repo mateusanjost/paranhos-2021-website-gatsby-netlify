@@ -24,7 +24,7 @@
             },
             {
                 "type": "action",
-                "label": "Journal",
+                "label": "Fique por dentro",
                 "url": "/blog/",
                 "style": "link"
             },
