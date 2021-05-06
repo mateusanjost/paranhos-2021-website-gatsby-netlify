@@ -24,6 +24,8 @@
   &__logo {
     img {
       max-height: 4.5em;
+      width: auto !important;
+      max-width: auto !important;
     }
   }
 
