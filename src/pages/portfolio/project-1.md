@@ -2,7 +2,7 @@
 title: Design Is One
 subtitle: Print
 date: '2020-02-10'
-thumb_image: images/work-poster-1-thumb.jpg
+thumb_image: /images/sistema pdv.png
 thumb_image_alt: Design Is One preview
 sections:
   - type: image_section
