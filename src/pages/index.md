@@ -13,7 +13,7 @@ sections:
     actions: []
   - type: portfolio_section
     section_id: latest-projects
-    title: Ultimos cases
+    title: Últimos cases
     subtitle: Veja os nossos últimos projetos
     layout_style: mosaic
     projects_number: 6
