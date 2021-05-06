@@ -80,17 +80,7 @@
             }
         ],
         "content": "Paranhos 2021",
-        "links": [
-            {
-                "label": "E-mail: contato@agenciaparanhos.com.br",
-                "url": "mailto:contato@agenciaparanhos.com.br",
-                "style": "link",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://paranhos-2021-website-gatsby-netlify-28ce3.netlify.app",
     "favicon": "/images/vhgFKdi.png"
