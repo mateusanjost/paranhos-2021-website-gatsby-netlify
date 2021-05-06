@@ -22,7 +22,7 @@ sections:
   - type: grid_section
     section_id: clients
     title: Clientes
-    subtitle: A few of the companies we're proud to call partners
+    subtitle: Algumas das empresas que temos orgulho de chamar de parceiras
     col_number: three
     grid_items:
       - type: grid_item
