@@ -5,11 +5,11 @@ sections:
   - type: hero_section
     section_id: hero
     title: Uma luz em suas ideias
-    content: >
-      TEMOS COMO ESSÊNCIA  SOLUÇÕES NO DESENVOLVIMENTO MÓBILE, WEB E DESKTOP,
-      ALÉM DE APRESENTAR SOLUÇÕES DE RENTABILIDA  EFICAZES ÀS EMPRESAS QUE
-      PROCURAM AUMENTAR O FATURAMENTO, BASEANDO-SE SEMPRE EM PERFORMANCE E
-      DADOS.
+    content: |+
+
+
+      Algo aqui......
+
     actions: []
   - type: portfolio_section
     section_id: latest-projects
