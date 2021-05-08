@@ -105,11 +105,11 @@ sections:
   - type: cta_section
     section_id: cta
     title: Become a Team Player
-    content: >-
-      We are always looking for great people to join our team. If you are
-      interested in working for Agency, please send an email to
-      [email@example.com](mailto:email@example.com) with your CV and which
-      position you are interested in.
+    content: >+
+      Estamos sempre à procura de ótimas pessoas para fazerem parte da nossa
+      equipe. Se você tem interesse em trabalhar conosco, envie um e-mail para
+      vagas@paranhos.com.br com seu currículo e o cargo que lhe interessa.
+
     image: images/cta-about.svg
     image_alt: Illustration
     bg_color: light
