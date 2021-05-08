@@ -91,7 +91,7 @@ sections:
         label: QUERO TORNAR A MINHA IDEIA REALIDADE
         url: /contact
         style: button
-    image: /images/cta.svg
+    image: /images/unique-tiger.svg
     image_alt: Illustration
     bg_color: light
 template: advanced
