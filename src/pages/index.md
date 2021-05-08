@@ -32,7 +32,7 @@ sections:
         image: /images/73640a_dccde9c8abf041a4b2055554c0324309_mv2.png
         image_alt: Logo 2
       - type: grid_item
-        image: images/logo-3.svg
+        image: /images/logotipo-carabinasdepressao1.png
         image_alt: Logo 3
       - type: grid_item
         image: images/logo-4.svg
