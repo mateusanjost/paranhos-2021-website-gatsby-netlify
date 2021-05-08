@@ -65,6 +65,7 @@ sections:
           *   Banco de dados
           *   Front end
           *   Back End
+          *
           *   Mobile, Desktop e Web.
           *   Homologação
           *   \#GoLive
