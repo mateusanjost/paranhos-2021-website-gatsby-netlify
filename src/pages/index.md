@@ -17,7 +17,7 @@ sections:
     subtitle: Veja os nossos últimos projetos
     layout_style: mosaic
     projects_number: 6
-    view_all_label: View All
+    view_all_label: VER MAIS
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
