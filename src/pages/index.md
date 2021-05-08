@@ -71,15 +71,18 @@ sections:
       - type: grid_item
         title: Mídia
         image: images/service-3.svg
-        content: |-
-          - Digital product design
-          - Service design
-          - Environmental and retail design
-          - Packaging design
-          - Art direction
-          - Communication design
-          - Social media
-          - Product design
+        content: |
+          *   Design de produto digital
+          *   Projeto de serviço
+          *   Design ambiental e varejo
+          *   Design de embalagem
+
+          <!---->
+
+          *   Direção de arte
+          *   Design de comunicações
+          *   Design de produto
+          *   Mídia social
   - type: cta_section
     section_id: cta
     title: Vamos trabalhar juntos!
