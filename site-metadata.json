@@ -50,7 +50,7 @@
                 "type": "action",
                 "label": "Twitter",
                 "url": "https://twitter.com/",
-                "style": "icon",
+                "style": "button",
                 "icon": "twitter",
                 "new_window": true
             },
