@@ -48,14 +48,17 @@ sections:
       - type: grid_item
         title: Social Media
         image: images/service-1.svg
-        content: |-
-          - Research and insight
-          - Business innovation and transformation
-          - Brand and strategy
-          - Brand portfolio strategy
-          - Design strategy
-          - Digital and experience strategy
-          - Communication strategy
+        content: |
+          *   Research and insight
+          *   Transformação empresarial
+          *   Marca e estratégia
+          *   Portfólio de marca
+          *   Padrão de design;
+          *   Estratégia digital;
+          *
+          *   Estratégia de comunicação
+          *   Gestão
+          *   Análise do mercado
       - type: grid_item
         title: Desenvolvimento
         image: images/service-2.svg
