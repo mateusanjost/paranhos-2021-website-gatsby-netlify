@@ -55,7 +55,9 @@ sections:
           *   Portfólio de marca
           *   Padrão de design;
           *   Estratégia digital;
-          *
+
+
+
           *   Estratégia de comunicação
           *   Gestão
           *   Análise do mercado
