@@ -88,7 +88,7 @@ sections:
 
     actions:
       - type: action
-        label: QUERO TRABALHAR COM VOCÊS
+        label: QUERO TORNAR A MINHA IDEIA REALIDADE
         url: /contact
         style: button
     image: images/cta.svg
