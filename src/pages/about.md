@@ -17,7 +17,6 @@ sections:
   - type: grid_section
     section_id: team
     title: Nosso time
-    subtitle: An optional subtitle of the section
     col_number: three
     grid_items:
       - type: grid_item
