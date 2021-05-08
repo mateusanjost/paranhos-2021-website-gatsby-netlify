@@ -91,7 +91,7 @@ sections:
         label: QUERO TORNAR A MINHA IDEIA REALIDADE
         url: /contact
         style: button
-    image: /images/cta-about-paranhos.svg
+    image: /images/cta.svg
     image_alt: Illustration
     bg_color: light
 template: advanced
