@@ -5,7 +5,10 @@
   margin-bottom: 3.33333em;
   padding-bottom: 1em;
   padding-top: 1em;
-
+background-size: cover;
+    filter: drop-shadow(5px 4px 6px black);
+    background-color: #751c00;
+    background-image: linear-gradient(to bottom, #21171763, rgb(18 25 32 / 49%));
   @media only screen and (min-width: 601px) {
     margin-bottom: 5em;
   }
