@@ -103,7 +103,7 @@ sections:
         label: QUERO TORNAR A MINHA IDEIA REALIDADE
         url: /contact
         style: button
-    image: /images/cta.svg
+    image: /images/vhgFKdi.png
     image_alt: Illustration
     bg_color: light
 template: advanced
