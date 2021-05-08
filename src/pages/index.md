@@ -40,7 +40,6 @@ sections:
       - type: grid_item
         image: /images/logo_pequena.gif
         image_alt: Logo 5
-        title: DHNET
   - type: grid_section
     section_id: services
     title: SERVIÇOS
