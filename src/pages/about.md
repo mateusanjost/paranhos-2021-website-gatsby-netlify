@@ -1,5 +1,5 @@
 ---
-title: Conheça-nos
+title: SOBRE A GENTE
 hide_title: false
 sections:
   - type: content_section
