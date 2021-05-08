@@ -38,7 +38,7 @@ sections:
         image: /images/madelu.png
         image_alt: Logo 4
       - type: grid_item
-        image: /images/logo_pequena.gif
+        image: /images/unnamed.png
         image_alt: Logo 5
   - type: grid_section
     section_id: services
