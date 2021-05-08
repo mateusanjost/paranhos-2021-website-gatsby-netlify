@@ -11,7 +11,9 @@
 
   &__image {
     margin-bottom: 1.11111em;
-
+    img {
+            filter: grayscale(1);
+    }
     .grid--col-two & {
       max-width: 585px;
     }
