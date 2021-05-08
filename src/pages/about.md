@@ -104,7 +104,7 @@ sections:
             new_window: true
   - type: cta_section
     section_id: cta
-    title: Torne-se um
+    title: Torne-se uma luz na vida dos nossos clientes!
     content: >+
       Estamos sempre à procura de ótimas pessoas para fazerem parte da nossa
       equipe. Se você tem interesse em trabalhar conosco, envie um e-mail para
