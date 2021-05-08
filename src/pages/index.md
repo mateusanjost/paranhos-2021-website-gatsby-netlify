@@ -29,7 +29,7 @@ sections:
         image: /images/kidsapegologo_b.png
         image_alt: Logo 1
       - type: grid_item
-        image: /images/WhatsApp Image 2021-05-08 at 20.16.49.jpeg
+        image: /images/73640a_dccde9c8abf041a4b2055554c0324309_mv2.png
         image_alt: Logo 2
       - type: grid_item
         image: images/logo-3.svg
