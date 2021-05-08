@@ -1,5 +1,5 @@
 ---
-title: Our Story
+title: Conheça-nos
 hide_title: false
 sections:
   - type: content_section
