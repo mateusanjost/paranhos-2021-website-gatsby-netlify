@@ -104,7 +104,7 @@ sections:
             new_window: true
   - type: cta_section
     section_id: cta
-    title: Become a Team Player
+    title: Torne-se um
     content: >+
       Estamos sempre à procura de ótimas pessoas para fazerem parte da nossa
       equipe. Se você tem interesse em trabalhar conosco, envie um e-mail para
