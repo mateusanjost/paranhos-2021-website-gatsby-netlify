@@ -59,14 +59,15 @@ sections:
       - type: grid_item
         title: Desenvolvimento
         image: images/service-2.svg
-        content: |-
-          - Brand development
-          - Naming
-          - Brand identity
-          - Design systems
-          - Concept development
-          - Brand implementation and management
-          - Typography
+        content: |
+          *   Estimativa
+          *   Análise de viabilidade
+          *   Banco de dados
+          *   Front end
+          *   Back End
+          *   Mobile, Desktop e Web.
+          *   Homologação
+          *   \#GoLive
       - type: grid_item
         title: Mídia
         image: images/service-3.svg
