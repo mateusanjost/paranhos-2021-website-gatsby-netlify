@@ -111,7 +111,7 @@ sections:
 
     actions:
       - type: action
-        label: QUERO TORNAR A MINHA IDEIA REALIDADE
+        label: COMEÇAR AGORA
         url: /contact
         style: button
     image: /images/vhgFKdi.png
