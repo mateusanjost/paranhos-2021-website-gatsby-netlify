@@ -3,7 +3,7 @@ title: Por que preciso de um plano de marketing?
 date: '2021-02-12'
 thumb_image: /images/marketing.jpg
 thumb_image_alt: White desk lamp beside green plant
-image: images/post-6.jpg
+image: /images/marketing.jpg
 image_alt: White desk lamp beside green plant
 excerpt: >-
   Nos tempos de hoje, o marketing
