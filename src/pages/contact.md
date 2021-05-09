@@ -41,7 +41,7 @@ sections:
         input_type: textarea
         name: message
         label: Mensagem
-        default_value: Your message
+        default_value: Conte-nos o que precisa
       - type: form_field
         input_type: checkbox
         name: consent
