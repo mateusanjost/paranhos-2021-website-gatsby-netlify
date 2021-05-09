@@ -24,7 +24,6 @@ sections:
     type: image_section
     image: /images/206df0843e62722e6556b48b771fc85a.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: regular
     type: image_section
 seo:
