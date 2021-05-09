@@ -56,6 +56,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/logo.png
   - type: grid_section
     section_id: services
     title: SERVIÇOS
