@@ -123,7 +123,6 @@ sections:
     bg_color: light
   - section_id: lorem-ipsum
     title: O que falam de nós
-    subtitle: lorem-ipsum
     testimonials:
       - author: lorem-ipsum
         position: lorem-ipsum
