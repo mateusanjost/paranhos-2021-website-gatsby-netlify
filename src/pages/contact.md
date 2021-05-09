@@ -32,7 +32,7 @@ sections:
         input_type: select
         name: subject
         label: Em qual serviço está interessado?
-        default_value: selecione
+        default_value: Selecione
         options:
           - Desenvolvimento
           - Mídia
