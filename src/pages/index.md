@@ -40,8 +40,7 @@ sections:
       - type: grid_item
         image: /images/unnamed.png
         image_alt: Logo 5
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
