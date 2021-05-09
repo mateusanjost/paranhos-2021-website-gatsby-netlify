@@ -111,7 +111,7 @@ sections:
     bg_color: light
 seo:
   type: stackbit_page_meta
-  title: About Us
+  title: Sobre
   description: This is the about us page
   extra:
     - name: 'og:type'
