@@ -20,7 +20,6 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/206df0843e62722e6556b48b771fc85a.png
