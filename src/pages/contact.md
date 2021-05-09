@@ -39,7 +39,7 @@ sections:
           - Social media
       - type: form_field
         input_type: textarea
-        name: Conte-nos o que precisa
+        name: message
         label: Mensagem
         default_value: Your message
       - type: form_field
