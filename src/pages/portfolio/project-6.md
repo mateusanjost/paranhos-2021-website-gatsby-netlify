@@ -8,7 +8,7 @@ sections:
   - type: image_section
     image: /images/landim page cliche.png
     image_alt: Subtle 1
-    caption: This is the caption of the image
+    caption: Captura da Landim Page.
     width: wide
   - type: text_section
   - type: image_section
