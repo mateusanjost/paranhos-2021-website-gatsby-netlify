@@ -22,10 +22,10 @@ export default class GridSection extends React.Component {
                   {_.map(_.get(section, 'grid_items', null), (item, item_idx) => (
                   <div key={item_idx} className="cell card">
                     {_.get(item, 'image', null) && (
-                        <div className={"orange"}>
+                       
                     <div className={"card__image"}>
                       <img src={withPrefix(_.get(item, 'image', null))} alt={_.get(item, 'image_alt', null)} />
-                    </div>
+                   
                     </div>
                     )}
                     {_.get(item, 'title', null) && (
