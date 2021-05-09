@@ -36,7 +36,7 @@ sections:
         options:
           - Desenvolvimento
           - Mídia
-          - Digital
+          - Social media
       - type: form_field
         input_type: textarea
         name: message
