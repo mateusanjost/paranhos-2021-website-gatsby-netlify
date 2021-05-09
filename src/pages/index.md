@@ -49,17 +49,22 @@ sections:
         title: Social Media
         image: images/service-1.svg
         content: |
-          *   Research and insight
-          *   Transformação empresarial
+
+
           *   Marca e estratégia
+
+          *   Transformação empresarial
+
           *   Portfólio de marca
+
           *   Padrão de design;
+
           *   Estratégia digital;
 
-
-
           *   Estratégia de comunicação
+
           *   Gestão
+
           *   Análise do mercado
       - type: grid_item
         title: Desenvolvimento
