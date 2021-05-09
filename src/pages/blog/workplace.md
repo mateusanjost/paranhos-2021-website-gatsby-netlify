@@ -49,9 +49,49 @@ seo:
       relativeUrl: true
 template: post
 ---
+> “As pessoas não sabem o que querem até você mostrar a elas.”
 
-Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.
+ 
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.
+Nos tempos de hoje, o marketing digital é essencial para manter qualquer empresa viva. E, como saber se é a
+hora de investir nisso? O ideal é ter um plano de marketing antes das coisas
+começarem a ir mal, mas nem sempre fazemos o ideal, não?
 
-Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.
+**“Eu até tenho muitos seguidores, mas meu faturamento não aumentou proporcionalmente”.**
+
+É inevitável relacionar os
+seguidores com as vendas, contudo, saiba que nem 10% dos seus seguidores atuais
+consomem os seus produtos regularmente e nós mudaremos isto.
+
+**“O investimento é eterno?”**
+
+Pense na sua empresa como uma plantação, você precisa estar cuidado dela arduamente ou não colherá os melhores frutos. O
+investimento, com o passar do tempo, fica infinitamente menos custoso, com base
+na nova rentabilidade gerada.
+
+“Como saber o que preciso, para a minha empresa?”
+
+Faça um levantamento: 
+
+1.       Quantas mídias sociais você precisa que administre – e inclua o site nessa mídia;
+
+2.       Quantas postagens espera por semana?
+
+3.       Precisará de stories?
+
+4.       Relatório de desempenho?
+
+5.       Gestão ou só postagem?
+
+6.       Análise profunda dos concorrentes?
+
+7.       Monitoramento diário?
+
+9\.      Brand? 
+
+10\.   O que mais?
+
+
+
+Não existe mágica, precisaremos analisar a sua marca, traçar o plano mais adequado e que se alinhe com as suas
+atuais possibilidades e traga retorno.
