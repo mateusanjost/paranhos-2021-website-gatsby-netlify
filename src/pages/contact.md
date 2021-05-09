@@ -40,7 +40,7 @@ sections:
       - input_type: text
         name: 'Preferencialmente, whatsapp'
         label: Telefone
-        default_value: lorem-ipsum
+        default_value: 'Preferencialmente, whatsapp'
         options: []
         is_required: false
         type: form_field
