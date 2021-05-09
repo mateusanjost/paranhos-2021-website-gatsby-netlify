@@ -1,6 +1,6 @@
 ---
 title: SOBRE A GENTE
-hide_title: false
+hide_title: true
 sections:
   - type: content_section
     image: images/about.jpg
