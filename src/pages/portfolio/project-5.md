@@ -6,7 +6,7 @@ thumb_image: /images/206df0843e62722e6556b48b771fc85a.png
 thumb_image_alt: Social media preview
 sections:
   - type: image_section
-    image: images/work-magazine-1.jpg
+    image: /images/7a126c2bddcd5825c7c114789e2fc1f4.png
     image_alt: Nature Magazine 1
     caption: This is the caption of the image
     width: wide
