@@ -44,8 +44,7 @@ sections:
         actions: []
         type: grid_item
         image: /images/logo.png
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
