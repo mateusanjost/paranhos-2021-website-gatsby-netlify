@@ -6,10 +6,6 @@ thumb_image: /images/206df0843e62722e6556b48b771fc85a.png
 thumb_image_alt: Social media preview
 sections:
   - type: text_section
-  - type: image_section
-    image: /images/61e62dee45ab18d613b35701932a9814.png
-    image_alt: Nature Magazine 2
-    width: wide
   - type: text_section
     content: >-
       Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
