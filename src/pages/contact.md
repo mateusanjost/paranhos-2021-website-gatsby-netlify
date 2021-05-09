@@ -32,7 +32,7 @@ sections:
         input_type: select
         name: subject
         label: Em qual serviço está interessado?
-        default_value: Please select
+        default_value: selecione
         options:
           - Branding
           - Design
