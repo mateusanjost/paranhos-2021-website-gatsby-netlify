@@ -6,17 +6,10 @@ sections:
     section_id: hero
     title: Uma luz em suas ideias
     content: >
-      > A 
-
-      >
-
-      > **PARANHOS **
-
-      >
-
-      > fornece soluções para social media, desenvolvimento e mídia, através de
-      diversos tipos de serviços, entre eles: front-end, back-end, análises do
-      mercado, viabilidade técnica, brand, gestão de mídia social, entre outros.
+      > A PARANHOS fornece soluções para social media, desenvolvimento e mídia,
+      através de diversos tipos de serviços, entre eles: front-end, back-end,
+      análises do mercado, viabilidade técnica, brand, gestão de mídia social,
+      entre outros.
     actions: []
   - type: portfolio_section
     section_id: latest-projects
