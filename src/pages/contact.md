@@ -34,7 +34,7 @@ sections:
         label: Em qual serviço está interessado?
         default_value: selecione
         options:
-          - Branding
+          - Desenvolvimento
           - Design
           - Digital
       - type: form_field
