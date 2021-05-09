@@ -60,6 +60,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/PRESSAO FARMA.png
   - type: grid_section
     section_id: services
     title: SERVIÇOS
