@@ -38,7 +38,7 @@ sections:
           - Social media
         default_value: selecione
       - input_type: text
-        name: 'Preferencialmente, whatsapp'
+        name: Telefone
         label: Telefone
         default_value: 'Preferencialmente, whatsapp'
         options: []
