@@ -38,7 +38,7 @@ sections:
           - Social media
         default_value: selecione
       - input_type: text
-        name: lorem-ipsum
+        name: 'Preferencialmente, whatsapp'
         label: Telefone
         default_value: lorem-ipsum
         options: []
