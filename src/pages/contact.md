@@ -31,7 +31,7 @@ sections:
       - type: form_field
         input_type: select
         name: subject
-        label: Em qual serviço está interessado?
+        label: Qual solução você precisa para a sua empresa?
         options:
           - Desenvolvimento
           - Mídia
