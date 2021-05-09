@@ -26,7 +26,7 @@ sections:
         input_type: email
         name: email
         label: Email
-        default_value: etigiD
+        default_value: D
         is_required: true
       - type: form_field
         input_type: select
