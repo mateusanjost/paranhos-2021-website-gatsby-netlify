@@ -33,7 +33,8 @@
                 "label": "Sobre",
                 "url": "/about/",
                 "style": "icon",
-                "new_window": true
+                "new_window": true,
+                "no_follow": true
             },
             {
                 "type": "action",
