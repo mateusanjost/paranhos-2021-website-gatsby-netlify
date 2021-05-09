@@ -6,12 +6,6 @@ thumb_image: /images/206df0843e62722e6556b48b771fc85a.png
 thumb_image_alt: Social media preview
 sections:
   - type: text_section
-  - type: text_section
-    content: >-
-      Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-      massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-      placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
-      Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
     image: images/work-magazine-3.jpg
     image_alt: Nature Magazine 3
