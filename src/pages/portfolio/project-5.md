@@ -1,5 +1,5 @@
 ---
-title: Social Media - Image
+title: Social Media
 subtitle: Design
 date: '2021-01-10'
 thumb_image: /images/206df0843e62722e6556b48b771fc85a.png
