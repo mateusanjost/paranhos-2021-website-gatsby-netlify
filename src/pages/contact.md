@@ -37,6 +37,13 @@ sections:
           - Mídia
           - Social media
         default_value: selecione
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
       - type: form_field
         input_type: textarea
         name: message
