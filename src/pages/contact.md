@@ -26,7 +26,7 @@ sections:
         input_type: email
         name: email
         label: Email
-        default_value: D
+        default_value: Digite o seu e-mail
         is_required: true
       - type: form_field
         input_type: select
