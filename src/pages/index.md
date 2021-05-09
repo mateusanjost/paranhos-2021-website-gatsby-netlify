@@ -7,72 +7,71 @@ sections:
     title: Uma luz em suas ideias
     content: >
       A PARANHOS fornece soluções para social media, desenvolvimento e mídia,
-      através de diversos tipos de serviços, entre eles: 
+      através de diversos tipos de serviços, entre eles:
 
 
+      ######
       ![](https://agenciaparanhos.com.br/images/service-2.svg)![](https://agenciaparanhos.com.br/images/service-3.svg)
 
 
+      > ###### Transformação empresarial
 
 
-      > Transformação empresarial
+      > ###### Portfólio de marca
 
 
-      > Portfólio de marca
+      > ###### Padrão de design;
 
 
-      > Padrão de design;
+      > ###### Estratégia digital;
 
 
-      > Estratégia digital;
+      > ###### Estratégia de comunicação
 
 
-      > Estratégia de comunicação
+      > ###### Gestão
 
 
-      > Gestão
+      > ###### Análise do mercado
 
 
-      > Análise do mercado
+      > ###### Front end
 
 
-      > Front end
+      > ###### Back End
 
 
-      > Back End
+      > ###### Mobile, Desktop e Web.
 
 
-      > Mobile, Desktop e Web.
+      > ###### Homologação
 
 
-      > Homologação
+      > ###### #GoLive
 
 
-      > \#GoLive
+      > ###### Design de produto digital
 
 
-      > Design de produto digital
+      > ###### Projeto de serviço
 
 
-      > Projeto de serviço
+      > ###### Design ambiental e varejo
 
 
-      > Design ambiental e varejo
+      > ###### Design de embalagem
 
 
-      > Design de embalagem
+      ######
 
 
-      >
+      > ###### Design de comunicações
 
 
-      > Design de comunicações
+      > ###### Design de produto
 
 
-      > Design de produto
-
-
-      > Mídia social
+      > ###### Mídia social
     actions: []
   - type: portfolio_section
     section_id: latest-projects
