@@ -112,7 +112,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: Sobre
-  description: This is the about us page
+  description: Saiba mais sobre a Paranhos
   extra:
     - name: 'og:type'
       value: website
