@@ -32,7 +32,6 @@ sections:
     type: image_section
     image: /images/827490847d4ba5e347430f1fc148bd7e.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/a02edabe59068250540470da55b8a77a.png
