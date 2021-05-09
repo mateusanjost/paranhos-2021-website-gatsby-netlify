@@ -36,6 +36,7 @@ sections:
           - Desenvolvimento
           - Mídia
           - Social media
+        default_value: selecione
       - type: form_field
         input_type: textarea
         name: message
