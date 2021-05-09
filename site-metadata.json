@@ -32,7 +32,8 @@
                 "type": "action",
                 "label": "Sobre",
                 "url": "/about/",
-                "style": "icon"
+                "style": "icon",
+                "new_window": true
             },
             {
                 "type": "action",
