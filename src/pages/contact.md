@@ -39,7 +39,7 @@ sections:
         default_value: selecione
       - input_type: text
         name: lorem-ipsum
-        label: lorem-ipsum
+        label: Telefone
         default_value: lorem-ipsum
         options: []
         is_required: false
