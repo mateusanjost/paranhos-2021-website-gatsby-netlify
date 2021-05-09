@@ -35,6 +35,7 @@ sections:
     caption: lorem-ipsum
     width: regular
     type: image_section
+    image: /images/a02edabe59068250540470da55b8a77a.png
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
