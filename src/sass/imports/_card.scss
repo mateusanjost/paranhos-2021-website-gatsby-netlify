@@ -8,7 +8,10 @@
     color: $color-gray-300;
     font-style: italic;
   }
-
+    .orange {
+        
+    filter: sepia(1) !important; 
+    }
   &__image {
     margin-bottom: 1.11111em;
     img {
