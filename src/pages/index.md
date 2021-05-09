@@ -49,23 +49,21 @@ sections:
         title: Social Media
         image: images/service-1.svg
         content: |
+          > Marca e estratégia
 
+          > Transformação empresarial
 
-          *   Marca e estratégia
+          > Portfólio de marca
 
-          *   Transformação empresarial
+          > Padrão de design;
 
-          *   Portfólio de marca
+          > Estratégia digital;
 
-          *   Padrão de design;
+          > Estratégia de comunicação
 
-          *   Estratégia digital;
+          > Gestão
 
-          *   Estratégia de comunicação
-
-          *   Gestão
-
-          *   Análise do mercado
+          > Análise do mercado
       - type: grid_item
         title: Desenvolvimento
         image: images/service-2.svg
