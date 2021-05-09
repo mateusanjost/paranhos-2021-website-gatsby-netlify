@@ -8,7 +8,6 @@ sections:
   - type: image_section
     image: /images/7a126c2bddcd5825c7c114789e2fc1f4.png
     image_alt: Nature Magazine 1
-    caption: This is the caption of the image
     width: wide
   - type: text_section
   - type: image_section
