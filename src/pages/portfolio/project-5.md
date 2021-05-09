@@ -19,8 +19,7 @@ sections:
       massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet
       arcu accumsan lorem amet accumsan.
-  - image_alt: lorem-ipsum
-    width: regular
+  - width: regular
     type: image_section
     image: /images/206df0843e62722e6556b48b771fc85a.png
   - image_alt: lorem-ipsum
