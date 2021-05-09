@@ -32,7 +32,7 @@
                 "type": "action",
                 "label": "Sobre",
                 "url": "/about/",
-                "style": "icon"
+                "style": "link"
             },
             {
                 "type": "action",
