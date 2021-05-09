@@ -125,14 +125,5 @@ sections:
     image: /images/vhgFKdi.png
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: O que falam de nós
-    testimonials:
-      - author: lorem-ipsum
-        position: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
-    type: testimonials_section
 template: advanced
 ---
