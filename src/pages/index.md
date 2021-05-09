@@ -68,17 +68,21 @@ sections:
         title: Desenvolvimento
         image: images/service-2.svg
         content: |
-          *   Estimativa
-          *   Análise de viabilidade
-          *   Banco de dados
-          *   Front end
-          *   Back End
+          > Estimativa
 
+          > Análise de viabilidade
 
+          > Banco de dados
 
-          *   Mobile, Desktop e Web.
-          *   Homologação
-          *   \#GoLive
+          > Front end
+
+          > Back End
+
+          > Mobile, Desktop e Web.
+
+          > Homologação
+
+          > \#GoLive
       - type: grid_item
         title: Mídia
         image: images/service-3.svg
