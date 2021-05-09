@@ -36,12 +36,10 @@ sections:
     type: image_section
     image: /images/a02edabe59068250540470da55b8a77a.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/b4cda9b2cbd1608a22fea2210106d6d8.png
   - image_alt: lorem-ipsum
-    caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/e559f7d0b517f67da4a8f1c7cfa7550b.png
