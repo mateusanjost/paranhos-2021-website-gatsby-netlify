@@ -35,7 +35,7 @@ sections:
         default_value: selecione
         options:
           - Desenvolvimento
-          - aidíM
+          - Mídia
           - Digital
       - type: form_field
         input_type: textarea
