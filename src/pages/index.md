@@ -134,6 +134,7 @@ sections:
         avatar_alt: lorem-ipsum
         content: lorem-ipsum
         type: testimonial
+        avatar: /images/5471fcb2b4e27a0959ecd72ff15446a3.png
     type: testimonials_section
 template: advanced
 ---
