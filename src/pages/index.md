@@ -132,7 +132,7 @@ sections:
       - author: lorem-ipsum
         position: lorem-ipsum
         avatar_alt: lorem-ipsum
-        content: lorem-ipsum
+        content: <video src=
         type: testimonial
         avatar: /images/5471fcb2b4e27a0959ecd72ff15446a3.png
     type: testimonials_section
