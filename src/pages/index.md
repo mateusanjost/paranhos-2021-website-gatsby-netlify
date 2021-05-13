@@ -132,12 +132,6 @@ sections:
       - author: lorem-ipsum
         position: lorem-ipsum
         avatar_alt: lorem-ipsum
-        content: >-
-          <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/y0z5OIatnyE" title="YouTube video
-          player" frameborder="0" allow="accelerometer; autoplay;
-          clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen></iframe>
         type: testimonial
         avatar: /images/5471fcb2b4e27a0959ecd72ff15446a3.png
     type: testimonials_section
