@@ -31,6 +31,8 @@ z-index: 9999;
   }
 
   &__logo {
+      position: fixed;
+    top: 35%;
     img {
     width: 24% !important;
     max-width: none !important;
