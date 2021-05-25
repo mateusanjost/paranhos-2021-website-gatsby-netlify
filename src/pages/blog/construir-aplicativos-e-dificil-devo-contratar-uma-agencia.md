@@ -2,7 +2,10 @@
 title: >-
   Construir aplicativos é difícil? Devo contratar uma agência de aplicativos ou
   freelancer?
-subtitle: lorem-ipsum
+subtitle: >-
+  “Devo contratar minha própria equipe para criar meu aplicativo, encontrar um
+  freelancer ou fazer parceria com uma agência de aplicativos profissional como
+  a sua?”
 date: '2021-05-25'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
