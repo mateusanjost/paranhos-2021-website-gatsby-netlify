@@ -46,5 +46,4 @@ seo:
       value: images/work-photography-magazine-1.jpg
       relativeUrl: true
 template: project
-thumb_image: /images/landim page cliche.png
 ---
