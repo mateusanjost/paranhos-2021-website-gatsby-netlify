@@ -13,6 +13,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 template: post
+image: /images/grouptable_326979212.jpg
 ---
 ######
 
