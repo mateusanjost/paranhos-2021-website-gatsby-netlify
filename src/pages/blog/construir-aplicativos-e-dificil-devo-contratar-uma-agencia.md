@@ -1,5 +1,7 @@
 ---
-title: lorem-ipsum
+title: >-
+  Construir aplicativos é difícil? Devo contratar uma agência de aplicativos ou
+  freelancer?
 subtitle: lorem-ipsum
 date: '2021-05-25'
 thumb_image_alt: lorem-ipsum
