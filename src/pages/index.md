@@ -16,7 +16,7 @@ sections:
     title: Últimos cases
     subtitle: Veja os nossos últimos projetos
     layout_style: mosaic
-    projects_number: 6
+    projects_number: 4
     view_all_label: VER MAIS
     view_all_url: portfolio
   - type: grid_section
