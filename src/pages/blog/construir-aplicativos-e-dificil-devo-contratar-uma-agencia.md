@@ -18,7 +18,7 @@ seo:
   type: stackbit_page_meta
 template: post
 ---
-![](https://lh5.googleusercontent.com/y_IpErFH0lvhbKr1hUmvDkpEfR9iOtnKjGSMCZEGvHuPhNXHQ-N7ktUXvQODn-Y2ZBjvCAAVSp54070xk9QzbYDZlvd9xgQKEV0zTQL0HMPEByATcDqArm-TeLHJR4bkkHgMECj-)
+
 
 ###### Quer saber a verdade? Não há uma resposta certa! Não existem duas startups, agências ou freelancers exatamente iguais, e há prós e contras em cada cenário. Mas aqui estão algumas coisas que você deve saber antes de decidir se deve construir seu aplicativo internamente ou terceirizar o projeto para uma agência de aplicativos:
 
