@@ -14,6 +14,7 @@ seo:
   type: stackbit_page_meta
 template: post
 image: /images/grouptable_326979212.jpg
+thumb_image: /images/incredible-bee.jpg
 ---
 ######
 
