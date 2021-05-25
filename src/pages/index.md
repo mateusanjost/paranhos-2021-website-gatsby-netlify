@@ -125,15 +125,16 @@ sections:
     image: /images/vhgFKdi.png
     image_alt: Illustration
     bg_color: light
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - section_id: o-que-falam-sobre-nós
+    title: O que falam sobre a gente?
+    subtitle: 
     testimonials:
-      - author: lorem-ipsum
-        position: lorem-ipsum
-        avatar_alt: lorem-ipsum
+      - author: Ewerson Breda
+        position: '[..] Que está ali para tirar as suas dúvidas, entrega o que promete [...]'
+        avatar_alt: prova-social
         type: testimonial
-        avatar: /images/5471fcb2b4e27a0959ecd72ff15446a3.png
+        avatar: https://yt3.ggpht.com/ytc/AAUvwnhdD6p3mApAtpLPNFokVe2LdNPfExEGgVtTCJ6tjMo=s88-c-k-c0x00ffffff-no-rj
+        video: https://www.youtube.com/watch?v=WmVQJ_P14iw
     type: testimonials_section
 template: advanced
 ---

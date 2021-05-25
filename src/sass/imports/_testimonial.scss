@@ -31,6 +31,8 @@
     color: $color-gray-300;
     font-style: italic;
     margin-top: 0.25em;
+    justify-content: center;
+    display: flex;
   }
 
   &__avatar {

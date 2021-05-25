@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import ReactPlayer from 'react-player/youtube'
 
 import {withPrefix} from '../utils';
 
@@ -27,6 +28,8 @@ export default class TestimonialsSection extends React.Component {
                         )}
                         <div className="testimonial__details">
                           <div className="testimonial__author">{_.get(testimonial, 'author', null)}</div>
+                          
+                          <ReactPlayer  url={_.get(testimonial, 'video', null)} />           
                           {_.get(testimonial, 'position', null) && (
                           <div className="testimonial__position">{_.get(testimonial, 'position', null)}</div>
                           )}
