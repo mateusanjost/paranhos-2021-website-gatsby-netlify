@@ -19,9 +19,6 @@ thumb_image: /images/incredible-bee.jpg
 ######
 
 > Devo contratar minha própria equipe para criar meu aplicativo, encontrar um freelancer ou fazer parceria com uma agência de aplicativos profissional como a sua?”
->
-
-
 
 Quer saber a verdade? Não há uma resposta certa! Não existem duas startups, agências ou freelancers exatamente iguais, e há prós e contras em cada cenário. Mas aqui estão algumas coisas que você deve saber antes de decidir se deve construir seu aplicativo internamente ou terceirizar o projeto para uma agência de aplicativos:
 
@@ -55,4 +52,4 @@ Construir um aplicativo não é uma tarefa única.
 
 Conclusão: a construção de aplicativos exige experiência, criatividade e coesão - se você precisa de qualidade, velocidade e uma perspectiva baseada nas metas de negócios para seu produto, é melhor fazer parceria com um profissional nos estágios iniciais de planejamento, lançamento e desenvolver seu produto digital.
 
-Você está planejando um aplicativo? Qual foi o seu maior obstáculo? [Adoraríamos ouvir você](https://agenciaparanhos.com.br/portfolio/)
+Você está planejando um aplicativo? Qual foi o seu maior obstáculo? [Adoraríamos ouvir você](https://agenciaparanhos.com.br/contact/)
