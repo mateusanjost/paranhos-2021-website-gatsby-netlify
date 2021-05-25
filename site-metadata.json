@@ -66,17 +66,7 @@
             }
         ],
         "content": "<img src=\"/images/5471fcb2b4e27a0959ecd72ff15446a3.png\" style=\"    max-height: 100px;\"></img>",
-        "links": [
-            {
-                "label": "lorem-ipsum",
-                "url": "#",
-                "style": "button",
-                "icon": "dribbble",
-                "new_window": false,
-                "no_follow": false,
-                "type": "action"
-            }
-        ]
+        "links": []
     },
     "domain": "https://agenciaparanhos.com.br/",
     "favicon": "/images/vhgFKdi.png"
