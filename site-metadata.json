@@ -63,6 +63,15 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "content": "<img src=\"/images/5471fcb2b4e27a0959ecd72ff15446a3.png\" style=\"    max-height: 100px;\"></img>",
