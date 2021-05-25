@@ -5,7 +5,10 @@ title: >-
 date: '2021-05-25'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
+excerpt: >-
+  Devo contratar minha própria equipe para criar meu aplicativo, encontrar um
+  freelancer ou fazer parceria com uma agência de aplicativos profissional como
+  a sua?”
 seo:
   title: ''
   description: ''
