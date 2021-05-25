@@ -17,7 +17,7 @@ sections:
     subtitle: Veja os nossos últimos projetos
     layout_style: tiles
     projects_number: 4
-    view_all_label: VER MAIS
+    view_all_label: VER MAIS PROJETOS
     view_all_url: portfolio
   - type: grid_section
     section_id: clients
