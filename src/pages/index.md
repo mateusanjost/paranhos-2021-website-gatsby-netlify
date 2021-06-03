@@ -143,7 +143,11 @@ sections:
 template: advanced
 seo:
   title: 'Paranhos | Crie seu aplicativo e parcele no boleto '
-  description: ''
+  description: >-
+    A PARANHOS fornece soluções para social media, desenvolvimento e mídia,
+    através de diversos tipos de serviços, entre eles: front-end, back-end,
+    análises do mercado, viabilidade técnica, brand, gestão de mídia social,
+    entre outros.
   robots: []
   extra: []
   type: stackbit_page_meta
