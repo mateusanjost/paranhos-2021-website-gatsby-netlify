@@ -5,6 +5,7 @@ sections:
   - type: hero_section
     section_id: hero
     title: Uma luz em suas ideias
+    font: Special Elite
     content: >
       > A PARANHOS fornece soluções para social media, desenvolvimento e mídia,
       através de diversos tipos de serviços, entre eles: front-end, back-end,
