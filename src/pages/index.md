@@ -142,7 +142,9 @@ sections:
     bg_color: light
 template: advanced
 seo:
-  title: ''
+  title: >-
+    Paranhos | Crie seu aplicativo e parcele no boleto | Criação de lojas
+    virtuais
   description: ''
   robots: []
   extra: []
