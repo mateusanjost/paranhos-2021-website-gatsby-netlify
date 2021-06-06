@@ -27,7 +27,7 @@ sections:
         label: 'Sua decisão em não contratar o sistema se deu por: '
         options:
           - Preço alto
-          - suA
+          - Aa
         is_required: false
         type: form_field
     hide_labels: false
