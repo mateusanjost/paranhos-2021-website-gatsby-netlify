@@ -30,6 +30,7 @@ sections:
           - 'Não encontrei o que procurava '
           - Desisti do projeto
           - lorem-ipsum
+          - lorem-ipsum
         is_required: false
         type: form_field
     hide_labels: false
