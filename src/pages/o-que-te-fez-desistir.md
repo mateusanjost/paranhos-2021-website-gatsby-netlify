@@ -14,7 +14,14 @@ sections:
 
     form_id: oqtfd
     form_action: oqtfd
-    form_fields: []
+    form_fields:
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     hide_labels: false
     submit_label: ENVIAR
     type: form_section
