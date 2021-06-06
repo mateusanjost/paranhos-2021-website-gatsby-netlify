@@ -19,7 +19,7 @@ export default class HeroSection extends React.Component {
                 <h1 className="hero__title line typing-animation">{_.get(section, 'title', null)}</h1>
                 )}
       {_.get(section, 'video', null) && (
-<ReactPlayer  playing={true} url={_.get(section, 'video', null)} />     
+<ReactPlayer  playing={true} muted={true} url={_.get(section, 'video', null)} />     
   )}
                 {_.get(section, 'content', null) && (
                 <div className="hero__body text-block">
