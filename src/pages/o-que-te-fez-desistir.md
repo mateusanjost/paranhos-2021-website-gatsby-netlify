@@ -3,7 +3,7 @@ title: Paranhos | O que te fez desistir?
 hide_title: true
 sections:
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: O que te fez desistir?
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
