@@ -35,7 +35,9 @@ sections:
         type: form_field
       - input_type: text
         name: feedback
-        label: lorem-ipsum
+        label: >-
+          Se preferir deixar algum comentário ou feedback sobre a sua
+          experiência, sinta-se à vontade! 
         default_value: lorem-ipsum
         options: []
         is_required: false
