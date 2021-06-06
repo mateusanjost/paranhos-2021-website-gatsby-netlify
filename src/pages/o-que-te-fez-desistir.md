@@ -16,7 +16,7 @@ sections:
     form_action: lorem-ipsum
     form_fields: []
     hide_labels: false
-    submit_label: lorem-ipsum
+    submit_label: ENVIAR
     type: form_section
 seo:
   title: ''
