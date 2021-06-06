@@ -7,7 +7,7 @@ sections:
       Obrigado por nos contatar. Entraremos em contato em breve.
     actions:
       - type: action
-        label: Back to homepage
+        label: Voltar ao início
         url: /
         style: button
 template: advanced
