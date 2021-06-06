@@ -19,11 +19,11 @@ sections:
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/709fdfbfbad59db29a0c907591c4a945.png
+    image: /images/AnyConv.com__709fdfbfbad59db29a0c907591c4a945.webp
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/827490847d4ba5e347430f1fc148bd7e.png
+    image: /images/AnyConv.com__827490847d4ba5e347430f1fc148bd7e.webp
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
