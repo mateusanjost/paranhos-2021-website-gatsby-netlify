@@ -2,7 +2,7 @@
 title: Landim Page - Cliché
 subtitle: "Desenvolvimento\_FrontEnd"
 date: '2021-02-06'
-thumb_image: /images/landim page cliche.png
+thumb_image: /images/AnyConv.com__landim page cliche.webp
 thumb_image_alt: Subtle preview
 sections:
   - type: image_section
