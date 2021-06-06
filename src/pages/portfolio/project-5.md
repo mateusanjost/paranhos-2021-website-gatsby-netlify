@@ -10,8 +10,6 @@ sections:
     image_alt: Nature Magazine 3
     width: wide
   - type: text_section
-    content: |
-      Essas imagens são meramente ilustrativas.
   - width: regular
     type: image_section
     image: /images/terrific-eggplant.webp
