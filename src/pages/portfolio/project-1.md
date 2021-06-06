@@ -32,7 +32,6 @@ sections:
       placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus.
       Aliquam lobortis faucibus blandit ac phasellus.
   - type: image_section
-    image: images/work-poster-3.jpg
     image_alt: Design Is One 3
     width: wide
   - type: text_section
