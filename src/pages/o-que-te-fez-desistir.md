@@ -38,7 +38,6 @@ sections:
         label: >-
           Se preferir deixar algum comentário ou feedback sobre a sua
           experiência, sinta-se à vontade! 
-        default_value: lorem-ipsum
         options: []
         is_required: false
         type: form_field
