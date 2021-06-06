@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: PARANHOS | PDV - Sistema de vendas e Gestão de mesas
 hide_title: true
 sections: []
 seo:
