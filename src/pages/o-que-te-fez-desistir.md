@@ -33,7 +33,7 @@ sections:
           - Tive dificuldade em entender como a Paranhos funciona
         is_required: false
         type: form_field
-      - input_type: text
+      - input_type: textarea
         name: feedback
         label: >-
           Se preferir deixar algum comentário ou feedback sobre a sua
