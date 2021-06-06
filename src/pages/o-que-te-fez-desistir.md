@@ -16,7 +16,7 @@ sections:
     form_action: oqtfd
     form_fields:
       - input_type: email
-        name: lorem-ipsum
+        name: Seu e-mail
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
