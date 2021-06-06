@@ -10,7 +10,7 @@ sections:
   - type: image_section
     image: /images/sistema pdv.png
     image_alt: Design Is One 1
-    caption: This is the caption of the image
+    caption: Vídeo demonstrativo
     width: wide
   - type: text_section
     content: >-
