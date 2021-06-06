@@ -47,7 +47,7 @@ sections:
       10. Backup automatizado em nuvem.
 
     actions:
-      - label: lorem-ipsum
+      - label: COMPRAR AGORA
         url: '#'
         style: link
         icon: dribbble
