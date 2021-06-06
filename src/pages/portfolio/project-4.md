@@ -1,5 +1,5 @@
 ---
-title: KIDSAPEGO
+title: BBDesapego
 subtitle: Desenvolvimento Móbile & Criativo
 date: '2020-05-10'
 thumb_image: /images/kidsapego app.png
