@@ -46,7 +46,14 @@ sections:
 
       10. Backup automatizado em nuvem.
 
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     type: hero_section
 seo:
   title: ''
