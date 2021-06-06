@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import ReactPlayer from 'react-player/youtube'
 
 import {markdownify} from '../utils';
 import CtaButtons from './CtaButtons';
