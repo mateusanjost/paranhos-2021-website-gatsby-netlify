@@ -41,6 +41,7 @@ sections:
         options: []
         is_required: false
         type: form_field
+        default_value: (opcional)
     hide_labels: false
     submit_label: ENVIAR
     type: form_section
