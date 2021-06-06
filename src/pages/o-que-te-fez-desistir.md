@@ -6,13 +6,11 @@ sections:
     title: O que te fez desistir?
     subtitle: Seu feedback é valioso para nós e será revisado com muita cautela.
     content: >+
-      Reparei que você não seguiu em frente com a Paranhos. Poderia nos fornecer
-      esse retorno, para melhorar o que fez não seguir conosco? 
 
 
-
-
-      ![](/\_static/app-assets/vhgFKdi.png)
+      ![](/\_static/app-assets/vhgFKdi.png) Reparei que você não seguiu em
+      frente com a Paranhos. Poderia nos fornecer esse retorno, para melhorar o
+      que fez não seguir conosco?
 
     form_id: lorem-ipsum
     form_action: lorem-ipsum
