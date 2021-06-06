@@ -23,7 +23,7 @@ sections:
         is_required: true
         type: form_field
       - input_type: select
-        name: lorem-ipsum
+        name: rejectsistem
         label: lorem-ipsum
         default_value: lorem-ipsum
         options: []
