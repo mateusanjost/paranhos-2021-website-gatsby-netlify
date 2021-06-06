@@ -35,7 +35,7 @@ sections:
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/e559f7d0b517f67da4a8f1c7cfa7550b.png
+    image: /images/AnyConv.com__e559f7d0b517f67da4a8f1c7cfa7550b.webp
 seo:
   type: stackbit_page_meta
   title: Nature Magazine
