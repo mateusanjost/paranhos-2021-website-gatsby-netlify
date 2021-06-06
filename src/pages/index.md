@@ -137,7 +137,7 @@ sections:
         label: COMEÇAR AGORA
         url: /contact
         style: button
-    image: /images/PAbreviation.svg
+    image: /images/vhgFKdi.png
     image_alt: Illustration
     bg_color: light
 template: advanced
