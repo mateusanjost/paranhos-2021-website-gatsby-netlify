@@ -33,6 +33,13 @@ sections:
           - Tive dificuldade em entender como a Paranhos funciona
         is_required: false
         type: form_field
+      - input_type: text
+        name: lorem-ipsum
+        label: lorem-ipsum
+        default_value: lorem-ipsum
+        options: []
+        is_required: false
+        type: form_field
     hide_labels: false
     submit_label: ENVIAR
     type: form_section
