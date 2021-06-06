@@ -29,7 +29,7 @@ sections:
           - Preço alto
           - 'Não encontrei o que procurava '
           - Desisti do projeto
-          - oãN
+          - Não recebi o tratamento adequado
           - lorem-ipsum
         is_required: false
         type: form_field
