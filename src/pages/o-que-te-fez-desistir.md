@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Paranhos | O que te fez desistir?
 hide_title: true
 sections: []
 seo:
