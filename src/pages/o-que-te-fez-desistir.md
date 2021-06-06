@@ -20,7 +20,7 @@ sections:
         label: E-mail
         default_value: Seu e-mail
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     hide_labels: false
     submit_label: ENVIAR
