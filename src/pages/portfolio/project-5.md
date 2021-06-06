@@ -31,7 +31,7 @@ sections:
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
-    image: /images/b4cda9b2cbd1608a22fea2210106d6d8.png
+    image: /images/AnyConv.com__b4cda9b2cbd1608a22fea2210106d6d8.webp
   - image_alt: lorem-ipsum
     width: regular
     type: image_section
