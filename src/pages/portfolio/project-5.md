@@ -2,7 +2,7 @@
 title: Social Media
 subtitle: Design
 date: '2021-01-10'
-thumb_image: /images/206df0843e62722e6556b48b771fc85a.png
+thumb_image: /images/AnyConv.com__206df0843e62722e6556b48b771fc85a.webp
 thumb_image_alt: Social media preview
 sections:
   - type: image_section
