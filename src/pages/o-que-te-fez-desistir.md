@@ -27,7 +27,7 @@ sections:
         label: 'Sua decisão em não contratar o sistema se deu por: '
         options:
           - Preço alto
-          - 'A Paranhos não ofereceu o que '
+          - 'Não encontrei o que procurava '
         is_required: false
         type: form_field
     hide_labels: false
