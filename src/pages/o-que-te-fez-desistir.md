@@ -28,7 +28,7 @@ sections:
         options:
           - Preço alto
           - 'Não encontrei o que procurava '
-          - lorem-ipsum
+          - Desisti do projeto
         is_required: false
         type: form_field
     hide_labels: false
