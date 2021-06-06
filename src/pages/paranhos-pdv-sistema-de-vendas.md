@@ -2,7 +2,7 @@
 title: PARANHOS | PDV - Sistema de vendas e Gestão de mesas
 hide_title: true
 sections:
-  - section_id: lorem-ipsum
+  - section_id: sistemapdv
     title: 'SOFTWARE PDV | Gestão de mesas, ESTOQUE, NOTA FISCAL, FINANCEIRO E +'
     content: >+
       ## O que é
