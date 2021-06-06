@@ -4,6 +4,7 @@ hide_title: true
 sections:
   - section_id: sistemapdv
     title: 'SOFTWARE PDV | Gestão de mesas, ESTOQUE, NOTA FISCAL, FINANCEIRO E +'
+    video: 
     content: >+
       ## O que é
 
