@@ -1,6 +1,8 @@
 ---
 title: PARANHOSPDV | Gestão
-subtitle: 'Controle de estoque, gestão de mesas, nota fiscais,'
+subtitle: >-
+  Controle de estoque, gestão de mesas, nota fiscais, autenticação múltipla,
+  financeiro, delivery, fornecedores e mais
 date: '2020-02-10'
 thumb_image: /images/sistema pdv.png
 thumb_image_alt: SISTEMA PDP
