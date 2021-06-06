@@ -25,7 +25,6 @@ sections:
       - input_type: select
         name: rejectsistem
         label: 'Sua decisão em não contratar o sistema se deu por: '
-        default_value: Descre
         options: []
         is_required: false
         type: form_field
