@@ -14,7 +14,7 @@ sections:
       Essas imagens são meramente ilustrativas.
   - width: regular
     type: image_section
-    image: /images/206df0843e62722e6556b48b771fc85a.png
+    image: /images/terrific-eggplant.webp
     image_alt: image social media
   - image_alt: lorem-ipsum
     width: regular
