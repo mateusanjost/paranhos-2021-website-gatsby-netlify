@@ -13,8 +13,7 @@ sections:
     type: image_section
     image: /images/terrific-eggplant.webp
     image_alt: image social media
-  - image_alt: lorem-ipsum
-    caption: lorem-ipsum
+  - caption: lorem-ipsum
     width: regular
     type: image_section
     image: /images/AnyConv.com__7a126c2bddcd5825c7c114789e2fc1f4.webp
