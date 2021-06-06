@@ -30,7 +30,7 @@ sections:
           - 'Não encontrei o que procurava '
           - Desisti do projeto
           - Não recebi o tratamento adequado
-          - lorem-ipsum
+          - Tive dificuldade em entender como a Paranhos funciona
         is_required: false
         type: form_field
     hide_labels: false
