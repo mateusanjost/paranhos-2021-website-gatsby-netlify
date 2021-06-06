@@ -3,9 +3,8 @@ title: Obrigado
 hide_title: false
 sections:
   - type: hero_section
-    content: >-
-      Thank you for testing this template. We hope you like it. Have a great
-      day!
+    content: |
+      Obrigado por nos contatar. Entraremos em contato em breve.
     actions:
       - type: action
         label: Back to homepage
