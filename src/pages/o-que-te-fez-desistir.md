@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: lorem-ipsum
     title: O que te fez desistir?
-    subtitle: lorem-ipsum
+    subtitle: Seu feedback é valioso para nós e será revisado com muita cautela.
     content: >-
       ## Lorem ipsum
 
