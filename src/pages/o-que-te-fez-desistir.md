@@ -25,7 +25,8 @@ sections:
       - input_type: select
         name: rejectsistem
         label: 'Sua decisão em não contratar o sistema se deu por: '
-        options: []
+        options:
+          - lorem-ipsum
         is_required: false
         type: form_field
     hide_labels: false
