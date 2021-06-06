@@ -48,7 +48,8 @@ sections:
 
     actions:
       - label: COMPRAR AGORA
-        url: '#'
+        url: >-
+          https://produto.mercadolivre.com.br/MLB-1907373071-sistema-pdv-vendas-controle-de-estoque-nota-fiscal-mesas-_JM
         style: link
         icon: dribbble
         new_window: true
