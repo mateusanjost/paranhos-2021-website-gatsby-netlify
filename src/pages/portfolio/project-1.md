@@ -1,5 +1,5 @@
 ---
-title: SISTEMA PDV
+title: PARANHOSPDV | Gestão
 subtitle: EM JAVA
 date: '2020-02-10'
 thumb_image: /images/sistema pdv.png
