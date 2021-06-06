@@ -18,7 +18,7 @@ sections:
       - input_type: email
         name: email
         label: Seu e-mail
-        default_value: lorem-ipsum
+        default_value: Seu e-mail
         options: []
         is_required: false
         type: form_field
