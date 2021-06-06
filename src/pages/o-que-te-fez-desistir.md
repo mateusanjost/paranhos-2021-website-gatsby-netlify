@@ -31,6 +31,7 @@ sections:
           - Desisti do projeto
           - Não recebi o tratamento adequado
           - Tive dificuldade em entender como a Paranhos funciona
+          - lorem-ipsum
         is_required: false
         type: form_field
     hide_labels: false
