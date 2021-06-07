@@ -56,6 +56,7 @@ sections:
         no_follow: false
         type: action
     type: hero_section
+    title: 'SOFTWARE PDV | Gestão de mesas, ESTOQUE, NOTA FISCAL, FINANCEIRO E +'
 seo:
   title: ''
   description: ''
