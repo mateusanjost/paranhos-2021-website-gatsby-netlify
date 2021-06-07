@@ -138,6 +138,21 @@ pre {
   }
 }
 
+#services {
+  blockquote {
+    p {
+      font-size: 1.5rem;
+    }
+  }
+  .card {
+    .title {
+      color: #ff9900;
+    font-size: 2rem;
+    font-style: italic;
+    font-family: 'Special Elite';
+    }
+  }
+}
 blockquote {
   margin: 1em 0;
   padding-left: 2em;

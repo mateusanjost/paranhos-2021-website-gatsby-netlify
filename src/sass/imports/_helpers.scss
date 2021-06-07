@@ -73,8 +73,15 @@
   .grid {
     margin-left: -$container-padding;
     margin-right: -$container-padding;
+
   }
-  
+
+  #clients {
+    .grid {
+      flex-flow: row;
+    }
+  }
+
   .cell {
     padding-left: $container-padding;
     padding-right: $container-padding;
@@ -134,7 +141,7 @@
 
   hr,
   .js-reframe,
-  :not(.responsive-table) > table,
+  :not(.responsive-table)>table,
   .responsive-table {
     &:not(:first-child) {
       margin-top: 2.5em;

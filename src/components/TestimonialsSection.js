@@ -29,7 +29,7 @@ export default class TestimonialsSection extends React.Component {
                         <div className="testimonial__details">
                           <div className="testimonial__author">{_.get(testimonial, 'author', null)}</div>
                           
-                  <ReactPlayer  playsinline={true} playing={true} light={true} muted={true} volume={1} url={_.get(testimonial, 'video', null)} />     
+                  <ReactPlayer width="auto" height="auto" playsinline={true} playing={true} light={true} muted={true} volume={1} url={_.get(testimonial, 'video', null)} />     
         {_.get(testimonial, 'position', null) && (
                           <div className="testimonial__position">{_.get(testimonial, 'position', null)}</div>
                           )}
