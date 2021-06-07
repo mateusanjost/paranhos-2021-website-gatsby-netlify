@@ -10,9 +10,6 @@ export default class HeroSection extends React.Component {
         let section = _.get(this.props, 'section', null);
         return (
             <section id={_.get(section, 'section_id', null)} className="hero">
-               <link async href="https://fonts.googleapis.com/css2?family=Goblin+One&family=Varela+Round&display=swap"/>
-                  <link async href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap"/>
-
               <div className="container container--lg">
                 {_.get(section, 'title', null) && (
                 <h1 className="hero__title line typing-animation">{_.get(section, 'title', null)}</h1>
