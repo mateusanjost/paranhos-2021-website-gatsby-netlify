@@ -13,9 +13,7 @@ export default class HeroSection extends React.Component {
               <div className="container container--lg">
                 {_.get(section, 'title', null) && (
                 <h1 className="hero__title line typing-animation">{_.get(section, 'title', null)}</h1>
-                )}
-
-                  
+                )}      
       {_.get(section, 'video', null) && (
 <ReactPlayer  playing={true} width="100%" light={true} muted={true} volume={1} url={_.get(section, 'video', null)} />     
   )}
