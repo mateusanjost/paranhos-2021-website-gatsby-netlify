@@ -40,7 +40,8 @@
                 "icon": "dribbble",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "label": "paranhos-pdv-sistema-de-vendas"
             }
         ]
     },
