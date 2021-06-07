@@ -17,6 +17,11 @@ body {
   text-rendering: optimizeLegibility;
 }
 
+.paranhos {
+  width: fit-content !important;
+  margin: 5% !important;
+}
+
 @each $font, $stack in $fonts {
   $font-suffix: "#{$font}";
 
