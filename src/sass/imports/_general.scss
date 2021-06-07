@@ -16,10 +16,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
 }
-
+@media only screen and (max-width: 500px)
+{
+  
 .paranhos {
   width: fit-content !important;
   margin: 5% !important;
+}
+
 }
 
 @each $font, $stack in $fonts {
