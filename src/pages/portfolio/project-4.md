@@ -16,13 +16,8 @@ sections:
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
-    content: >+
-      > O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
-      informações completas de produtos novos e usados, de forma prática e
-      rápida. Assim, o usuário tem a oportunidade de conhecer todos os produtos,
-      descobrir seus diferenciais, acessar o perfil do vendedor e efetuar sua
-      compra diretamente no app, de forma simples e rápida. 
-
+    content: |
+      >
   - type: image_section
     image: /images/screenshort-now-available.png
     image_alt: Nature Mockup Magazine 3
