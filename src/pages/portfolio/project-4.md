@@ -13,7 +13,7 @@ sections:
     content: |
       \[...]
   - type: image_section
-    image: /images/welcome-screenshort-left.webp
+    image: /images/screenshort-slider-img-1.webp
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
