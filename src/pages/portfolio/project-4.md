@@ -29,7 +29,7 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'BBDesapego '
-  description: This is the sample project description
+  description: Aplicativo BBDesapego
   extra:
     - name: 'og:type'
       value: website
