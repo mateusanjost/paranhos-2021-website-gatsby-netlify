@@ -13,7 +13,7 @@ sections:
     content: |
       \[...]
   - type: image_section
-    image: /images/5471fcb2b4e27a0959ecd72ff15446a3.png
+    image: /images/welcome-screenshort-left.webp
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
