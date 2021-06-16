@@ -61,7 +61,7 @@ seo:
     - name: 'twitter:description'
       value: This is the sample project description
     - name: 'twitter:image'
-      value: /_static/app-assets/remarkable-thyme.png
+      value: BBDesapego
       relativeUrl: true
 template: project
 ---
