@@ -46,7 +46,7 @@ seo:
       value: This is the sample project description
       keyName: property
     - name: 'og:image'
-      value: images/work-book-1.jpg
+      value: /_static/app-assets/remarkable-thyme.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
