@@ -28,7 +28,7 @@ sections:
   - type: text_section
 seo:
   type: stackbit_page_meta
-  title: Nature Mockup Magazine
+  title: 'BBDesapego '
   description: This is the sample project description
   extra:
     - name: 'og:type'
