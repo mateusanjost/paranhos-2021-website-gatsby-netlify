@@ -17,7 +17,7 @@ sections:
     title: Últimos cases
     subtitle: Veja os nossos últimos projetos
     layout_style: tiles
-    projects_number: 4
+    projects_number: 8
     view_all_label: VER MAIS PROJETOS
     view_all_url: portfolio
   - type: grid_section
