@@ -40,7 +40,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Mockup Magazine
+      value: BBDesapego
       keyName: property
     - name: 'og:description'
       value: This is the sample project description
