@@ -14,7 +14,7 @@ sections:
     content: |
       \[...]
   - type: image_section
-    image: /images/Screenshot_24.png
+    image: /images/5471fcb2b4e27a0959ecd72ff15446a3.png
     image_alt: Nature Mockup Magazine 2
     width: wide
   - type: text_section
