@@ -59,7 +59,12 @@ seo:
     - name: 'twitter:title'
       value: Nature Mockup Magazine
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: >-
+        O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
+        informações completas de produtos novos e usados, de forma prática e
+        rápida. Assim, o usuário tem a oportunidade de conhecer todos os
+        produtos, descobrir seus diferenciais, acessar o perfil do vendedor e
+        efetuar sua compra diretamente no app, de forma simples e rápida.
     - name: 'twitter:image'
       value: BBDesapego
       relativeUrl: true
