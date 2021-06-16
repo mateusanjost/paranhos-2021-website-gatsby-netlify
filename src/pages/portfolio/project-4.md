@@ -2,7 +2,7 @@
 title: BBDesapego
 subtitle: Desenvolvimento Móbile & Criativo
 date: '2020-05-10'
-thumb_image: /images/kidsapego app.png
+thumb_image: /images/Screenshot_2.webp
 thumb_image_alt: Kidsapego
 sections:
   - type: image_section
