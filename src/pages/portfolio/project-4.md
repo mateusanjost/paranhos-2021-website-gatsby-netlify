@@ -29,7 +29,12 @@ sections:
 seo:
   type: stackbit_page_meta
   title: 'BBDesapego '
-  description: Aplicativo BBDesapego
+  description: >-
+    O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
+    informações completas de produtos novos e usados, de forma prática e rápida.
+    Assim, o usuário tem a oportunidade de conhecer todos os produtos, descobrir
+    seus diferenciais, acessar o perfil do vendedor e efetuar sua compra
+    diretamente no app, de forma simples e rápida.
   extra:
     - name: 'og:type'
       value: website
