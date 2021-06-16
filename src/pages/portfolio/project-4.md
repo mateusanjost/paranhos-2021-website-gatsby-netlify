@@ -6,7 +6,7 @@ thumb_image: /images/Screenshot_2.webp
 thumb_image_alt: Kidsapego
 sections:
   - type: image_section
-    image: /images/remarkable-thyme.png
+    image: /images/curious-sun.webp
     image_alt: Nature Mockup Magazine 1
     caption: This is the caption of the image
     width: wide
