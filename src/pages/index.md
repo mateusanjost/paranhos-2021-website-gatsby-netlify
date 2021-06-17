@@ -54,6 +54,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: /images/headerbar.webp
       - type: grid_item
         image: /images/unnamed.png
         image_alt: Logo 5
