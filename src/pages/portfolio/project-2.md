@@ -2,7 +2,7 @@
 title: E-COMMERCE
 subtitle: ' CARABINAS DE PRESSÃO'
 date: '2020-03-10'
-thumb_image: /images/loja tray.png
+thumb_image: /images/AnyConv.com__loja tray.webp
 thumb_image_alt: Aimi preview
 sections:
   - type: image_section

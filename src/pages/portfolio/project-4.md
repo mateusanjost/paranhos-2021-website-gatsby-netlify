@@ -10,13 +10,20 @@ sections:
     image_alt: Nature Mockup Magazine 1
     width: wide
   - type: text_section
-    content: >+
+    content: >
       O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
       informações completas de produtos novos e usados, de forma prática e
       rápida. Assim, o usuário tem a oportunidade de conhecer todos os produtos,
       descobrir seus diferenciais, acessar o perfil do vendedor e efetuar sua
       compra diretamente no app, de forma simples e rápida.
 
+
+
+
+
+
+      [![](https://bbdesapego.com/assets/img/google-play-logo.png)
+      ](https://play.google.com/store/apps/details?id=com.BBDesapego.BBDesapego)
   - type: image_section
     image_alt: Nature Mockup Magazine 2
     width: wide
@@ -28,20 +35,30 @@ sections:
   - type: text_section
 seo:
   type: stackbit_page_meta
-  title: Nature Mockup Magazine
-  description: This is the sample project description
+  title: 'BBDesapego '
+  description: >-
+    O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
+    informações completas de produtos novos e usados, de forma prática e rápida.
+    Assim, o usuário tem a oportunidade de conhecer todos os produtos, descobrir
+    seus diferenciais, acessar o perfil do vendedor e efetuar sua compra
+    diretamente no app, de forma simples e rápida.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Nature Mockup Magazine
+      value: BBDesapego
       keyName: property
     - name: 'og:description'
-      value: This is the sample project description
+      value: >-
+        O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
+        informações completas de produtos novos e usados, de forma prática e
+        rápida. Assim, o usuário tem a oportunidade de conhecer todos os
+        produtos, descobrir seus diferenciais, acessar o perfil do vendedor e
+        efetuar sua compra diretamente no app, de forma simples e rápida.
       keyName: property
     - name: 'og:image'
-      value: images/work-book-1.jpg
+      value: /_static/app-assets/remarkable-thyme.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -49,9 +66,14 @@ seo:
     - name: 'twitter:title'
       value: Nature Mockup Magazine
     - name: 'twitter:description'
-      value: This is the sample project description
+      value: >-
+        O aplicativo BBDesapego surgiu da necessidade de reunir em um só lugar
+        informações completas de produtos novos e usados, de forma prática e
+        rápida. Assim, o usuário tem a oportunidade de conhecer todos os
+        produtos, descobrir seus diferenciais, acessar o perfil do vendedor e
+        efetuar sua compra diretamente no app, de forma simples e rápida.
     - name: 'twitter:image'
-      value: images/work-book-1.jpg
+      value: BBDesapego
       relativeUrl: true
 template: project
 ---

@@ -27,7 +27,7 @@ sections:
     col_number: three
     grid_items:
       - type: grid_item
-        image: /images/kidsapegologo_b.png
+        image: /images/AnyConv.com__bbdesapego_logo_b.webp
         image_alt: Logo 1
       - type: grid_item
         image: /images/73640a_dccde9c8abf041a4b2055554c0324309_mv2.png
