@@ -1,5 +1,5 @@
 ---
-title: Obrigado
+title: Obrigado por nos confiar o seu Aplicativo!
 hide_title: false
 sections:
   - type: hero_section
