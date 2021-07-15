@@ -2,7 +2,7 @@
 title: MAR DEL PLATA - SEGURO ONLINE
 subtitle: Desenvolvimento Web
 date: '2020-04-10'
-thumb_image: /images/mar del plata.png
+thumb_image: /images/Screenshot_14.webp
 thumb_image_alt: The Book preview
 sections:
   - type: image_section
